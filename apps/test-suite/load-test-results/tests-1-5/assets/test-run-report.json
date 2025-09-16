@@ -2124,10 +2124,10 @@
       "http.request_rate": null,
       "firstCounterAt": 1716317750007,
       "firstHistogramAt": 1716317750070,
-      "lastCounterAt": 1716317759985,
-      "lastHistogramAt": 1716317759985,
+      "lastCounterAt": 1716313002985,
+      "lastHistogramAt": 1716313002985,
       "firstMetricAt": 1716317750007,
-      "lastMetricAt": 1716317759985,
+      "lastMetricAt": 1716313002985,
       "period": "1716317750000",
       "summaries": {
         "http.response_time": {
